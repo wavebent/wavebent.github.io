@@ -325,8 +325,8 @@ img {
 .parallax__layer--third {
     background-color:#fff;
     transform: translateZ(0);
-    top:340vh;
-    height: 140%;
+    top:330vh;
+    height: 200%;
 
     /* background: url("img/wavebent-bg.png") top center repeat-x; */
 }

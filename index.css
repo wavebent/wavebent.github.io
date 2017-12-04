@@ -2,7 +2,7 @@
 html {
   height: 100%;
   background: radial-gradient(ellipse at bottom, #5794db 0%, #090a0f 100%);
-  background-image: url("img/clouds.png");;
+  background-image: url("img/clouds.PNG");;
   overflow: hidden;
   color: #253B55;
 }
